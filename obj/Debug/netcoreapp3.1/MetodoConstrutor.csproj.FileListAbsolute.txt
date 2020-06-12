@@ -1,0 +1,13 @@
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\MetodoConstrutor\MetodoConstrutor\bin\Debug\netcoreapp3.1\MetodoConstrutor.exe
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\MetodoConstrutor\MetodoConstrutor\bin\Debug\netcoreapp3.1\MetodoConstrutor.deps.json
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\MetodoConstrutor\MetodoConstrutor\bin\Debug\netcoreapp3.1\MetodoConstrutor.runtimeconfig.json
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\MetodoConstrutor\MetodoConstrutor\bin\Debug\netcoreapp3.1\MetodoConstrutor.runtimeconfig.dev.json
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\MetodoConstrutor\MetodoConstrutor\bin\Debug\netcoreapp3.1\MetodoConstrutor.dll
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\MetodoConstrutor\MetodoConstrutor\bin\Debug\netcoreapp3.1\MetodoConstrutor.pdb
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\MetodoConstrutor\MetodoConstrutor\obj\Debug\netcoreapp3.1\MetodoConstrutor.csprojAssemblyReference.cache
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\MetodoConstrutor\MetodoConstrutor\obj\Debug\netcoreapp3.1\MetodoConstrutor.csproj.CoreCompileInputs.cache
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\MetodoConstrutor\MetodoConstrutor\obj\Debug\netcoreapp3.1\MetodoConstrutor.AssemblyInfoInputs.cache
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\MetodoConstrutor\MetodoConstrutor\obj\Debug\netcoreapp3.1\MetodoConstrutor.AssemblyInfo.cs
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\MetodoConstrutor\MetodoConstrutor\obj\Debug\netcoreapp3.1\MetodoConstrutor.dll
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\MetodoConstrutor\MetodoConstrutor\obj\Debug\netcoreapp3.1\MetodoConstrutor.pdb
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\MetodoConstrutor\MetodoConstrutor\obj\Debug\netcoreapp3.1\MetodoConstrutor.genruntimeconfig.cache
